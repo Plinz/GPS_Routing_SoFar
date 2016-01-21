@@ -6,7 +6,7 @@ import org.glassfish.jersey.filter.LoggingFilter;
 
 import org.glassfish.jersey.server.ResourceConfig;
 
-@ApplicationPath("/v1/")
+@ApplicationPath("/sofar")
 public class Api extends ResourceConfig {
 
     public Api() {
